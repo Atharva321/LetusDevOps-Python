@@ -18,4 +18,11 @@ while(n>0):
         l.reverse()
     n-=1
 
-"""The eval & getattr function also be used here"""
+"""The eval & getattr function also be used here
+eval approach
+
+getattr approach
+
+
+"""
+
